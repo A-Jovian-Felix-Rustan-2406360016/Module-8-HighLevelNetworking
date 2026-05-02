@@ -1,0 +1,11 @@
+C:\Users\Asus\Documents\Modules_adprog\Module8\grpc-tutorial\target\debug\deps\matchit-d059b870b7f48347.d: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\error.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\params.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\router.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\tree.rs
+
+C:\Users\Asus\Documents\Modules_adprog\Module8\grpc-tutorial\target\debug\deps\libmatchit-d059b870b7f48347.rlib: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\error.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\params.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\router.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\tree.rs
+
+C:\Users\Asus\Documents\Modules_adprog\Module8\grpc-tutorial\target\debug\deps\libmatchit-d059b870b7f48347.rmeta: C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\lib.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\error.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\params.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\router.rs C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\tree.rs
+
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\lib.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\error.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\params.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\router.rs:
+C:\Users\Asus\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\matchit-0.5.0\src\tree.rs:
